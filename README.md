@@ -50,6 +50,9 @@ Please see the ```docker``` branch
 ## Node.js backend
 A Node.js implementation is available in the ```node``` branch, maintained by [dunklesToast](https://github.com/dunklesToast).
 
+## Sandstorm packaging
+Check out [sandstorm.md](ttps://github.com/samperd/speedtest/edit/sandstorm/sandstorm.md)
+
 ## Donate
 [![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
 [Donate with PayPal](https://www.paypal.me/sineisochronic)  
